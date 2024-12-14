@@ -13,6 +13,6 @@ This is a Streamlit application for extracting the boundaries of anime character
 
 ### Prerequisites 
 - Python 3.x
-  - Streamlit
-  - OpenCV
-  - NumPy
+- Streamlit
+- OpenCV
+- NumPy
